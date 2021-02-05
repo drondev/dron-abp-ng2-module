@@ -8,13 +8,13 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-	"publish": "ng buld abp-ng2-module --prod && cd dist && cd abp-ng2-module && npm publish"
+    "publish": "ng buld abp-ng2-module --prod && cd dist && cd abp-ng2-module && npm publish"
   },
   "private": false,
   "keywords": [
     "angular",
     "angular9",
-	"angular 9",
+    "angular 9",
     "aspnetboilerplate"
   ],
   "author": {
@@ -52,7 +52,7 @@
     "@types/node": "^12.11.1",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
-    "codelyzer": "^5.1.2",
+    "codelyzer": "^6.0.1",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~4.3.0",
